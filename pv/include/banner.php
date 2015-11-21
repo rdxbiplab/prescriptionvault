@@ -62,7 +62,7 @@
 								<div class="ch-info">
 									<div class="ch-info-front ch-img-1"></div>
 									<div class="ch-info-back">
-										<h3>Book Appointment</h3>
+										<h3>Market Place</h3>
 										 <a href="reg_login.php"><p>Click to Book</a>
                                          <a href="reg_login.php">Please Login First </a></p>
 									</div>	
@@ -126,7 +126,7 @@
 								<div class="ch-info">
 									<div class="ch-info-front ch-img-1"></div>
 									<div class="ch-info-back">
-										<h3>Book Appointment</h3>
+										<h3>Market Place</h3>
 										 <a href="reg_login.php"><p>Click to Book</a>
                                          <a href="reg_login.php">Please Login First </a></p>
 									</div>	
@@ -191,7 +191,7 @@
 								<div class="ch-info">
 									<div class="ch-info-front ch-img-1"></div>
 									<div class="ch-info-back">
-										<h3>Book Appointment</h3>
+										<h3>Market Place</h3>
 										 <a href="reg_login.php"><p>Click to Book</a>
                                          <a href="reg_login.php">Please Login First </a></p>
 									</div>	
@@ -256,7 +256,7 @@
 								<div class="ch-info">
 									<div class="ch-info-front ch-img-1"></div>
 									<div class="ch-info-back">
-										<h3>Book Appointment</h3>
+										<h3>Market Place</h3>
 										 <a href="reg_login.php"><p>Click to Book</a>
                                          <a href="reg_login.php">Please Login First </a></p>
 									</div>	
@@ -321,7 +321,7 @@
 								<div class="ch-info">
 									<div class="ch-info-front ch-img-1"></div>
 									<div class="ch-info-back">
-										<h3>Book Appointment</h3>
+										<h3>Market Place</h3>
 										 <a href="reg_login.php"><p>Click to Book</a>
                                          <a href="reg_login.php">Please Login First </a></p>
 									</div>	
