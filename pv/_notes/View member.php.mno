@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_View" value="name:Mem_Relation;datatype:string" />
+	<infoitem key="UD_ViewMember" value="name:Mem_Name;datatype:blob,name:Mem_Phone;datatype:int,name:Mem_Relation;datatype:string,name:Mem_Address;datatype:string,name:Mem_Email;datatype:string" />
+</info>

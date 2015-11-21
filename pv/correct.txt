@@ -1,0 +1,26 @@
+<label>
+                    <input type="radio" name="gender" value="" id="gender_0">
+                   Male</label>
+                  <br>
+                  <label>
+                    <input type="radio" name="gender" value="" id="gender_1">
+                    Female</label>
+           
+
+       <br>
+
+
+
+
+
+
+
+add member
+
+<label>
+                  <input type="radio" name="gender" value="" id="gender_0">
+                   Male</label>
+                  <br>
+                  <label>
+                  <input type="radio" name="gender" value="" id="gender_1">
+                  Female</label>

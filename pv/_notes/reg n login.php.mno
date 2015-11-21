@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Register" value="name:Name;datatype:blob,name:Email;datatype:string,name:Password;datatype:string,name:Conf_Password;datatype:string,name:Address;datatype:string,name:Phone;datatype:int,name:Gender;datatype:int" />
+</info>
