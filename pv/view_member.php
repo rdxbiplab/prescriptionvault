@@ -74,13 +74,18 @@ if($_REQUEST['flag'] == "pes_delete")
 
     <title>pvault | View</title>
     
+    
      <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
      <script type="text/javascript" src="css/custom.js"></script>
      <link type="text/css" rel="stylesheet" href="css/overlaypopup.css" />
     
     
     <link href="search/css/style.css" rel="stylesheet" type="text/css" media="all"/>   
-
+ <link rel="stylesheet" type="text/css" href="circle/css/demo.css" />
+	<link rel="stylesheet" type="text/css" href="circle/css/common.css" />
+    <link rel="stylesheet" type="text/css" href="circle/css/style5.css" />
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet' type='text/css' />
+	<script type="text/javascript" src="circle/js/modernizr.custom.79639.js"></script>  
    
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/modern-business.css" rel="stylesheet">
@@ -90,6 +95,8 @@ if($_REQUEST['flag'] == "pes_delete")
     <script src="https://code.jquery.com/jquery-1.7.2.js"></script>
     
     <link rel="stylesheet" href="css/lightbox.css" type="text/css">
+    
+    
     
 
 <?php
@@ -173,7 +180,7 @@ $(function() {
     <!-- Page Content -->
     
     <!------About what we sction start----->
-    <div class="about_whatwe_part">
+    <div class="about_whatwe_part" id="about">
     	<div class="container">
         	<div class="about_whopartctrl">
 <div class="row">
@@ -267,8 +274,8 @@ $row_member = mysql_fetch_array($view_member);
                          <br><br>
                           
                           
-                        <input name="update" type="button" value="Update Member Details" 
-                   style="color:#333; background-color:#4caf50; border-color:transparent; padding:0 25px;">
+                        <a href="view_member.php"><input name="update" type="button" value="Add New Member" 
+                   style="color:#333; background-color:#4caf50; border-color:transparent; padding:0 25px;"></a>
                         
                         
                       
@@ -560,4 +567,3 @@ while($data=mysql_fetch_array($tamdata))
 </body>
 
 </html>
-
